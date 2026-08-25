@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.4"
+  version: "1.4.0"
 
 package:
   name: pyrage-stubs
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyrage-stubs/pyrage_stubs-${{ version }}.tar.gz
-  sha256: 00d90a5daff51f9d692490ae3134dd14439ebd743a0c2d6426c36580b3a7fb8f
+  sha256: 9a44b0c1d2c169c67745ccb5790fcd1dd716941e9c4c4a66ecbd0862584766d9
 
 build:
   number: 0
